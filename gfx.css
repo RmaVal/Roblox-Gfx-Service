@@ -107,6 +107,7 @@ footer {
     font-size: 16px;
     width: 120px;
     margin-left: 270px;
+    cursor: pointer;
     
 }
 .submit-2:hover{
